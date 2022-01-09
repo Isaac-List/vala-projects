@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<schemalist>
+    <schema path="/com/github/isaac-list/app/" id="com.github.isaac-list.app">
+
+        <key name="pos-x" type="i">
+            <default>360</default>
+            <summary>Horizontal Position</summary>
+            <description>Horizontal position of the application window.</description>
+        </key>
+
+        <key name="pos-y" type="i">
+            <default>360</default>
+            <summary>Vertical Position</summary>
+            <description>Vertical position of the application window.</description>
+        </key>
+
+        <key name="window-width" type="i">
+            <default>600</default>
+            <summary>Window width</summary>
+            <description>Width of the application window.</description>
+        </key>
+
+        <key name="window-height" type="i">
+            <default>360</default>
+            <summary>Window height</summary>
+            <description>Height of the application window.</description>
+        </key>
+
+    </schema>
+</schemalist>
